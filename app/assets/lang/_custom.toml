@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Impero Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://launcher.imperomc.eu"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.imperomc.eu"
+
+[ejs.settings]
+sourceGithubLink = "https://discord.imperomc.eu"
+supportLink = "https://discord.imperomc.eu"
+
+[ejs.welcome]
+welcomeHeader = "BENVENUTO/A SU IMPERO LAUNCHER"
+welcomeDescription = ""
+welcomeDescCTA = "Copyright © 2025 IMPEROMC STUDIOS"
