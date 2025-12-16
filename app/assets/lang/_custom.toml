@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Impero Launcher"
+title = "Impero Launcher - v1.0.1"
 
 [ejs.landing]
 mediaGitHubURL = "https://launcher.imperomc.eu"

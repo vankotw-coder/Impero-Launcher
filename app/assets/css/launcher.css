@@ -2137,7 +2137,7 @@ input:checked + .toggleSwitchSlider:before {
     flex-direction: column;
     background: rgba(0, 0, 0, 0.25);
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 20px;
     width: 75%;
     margin-bottom: 20px;
 }
@@ -2237,7 +2237,7 @@ input:checked + .toggleSwitchSlider:before {
     flex-direction: column;
     background: rgba(0, 0, 0, 0.25);
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 20px;
     width: 75%;
     margin-bottom: 20px;
 }
@@ -2339,7 +2339,7 @@ input:checked + .toggleSwitchSlider:before {
     flex-direction: column;
     background: rgba(0, 0, 0, 0.25);
     border: 1px solid rgba(126, 126, 126, 0.57);
-    border-radius: 3px;
+    border-radius: 20px;
     width: 75%;
     margin-bottom: 20px;
 }
@@ -3022,6 +3022,11 @@ input:checked + .toggleSwitchSlider:before {
     right: 95px;
     text-align: right;
     -webkit-user-select: initial;
+    border: 2px #fff solid;
+    border-radius: 20px 0px 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* Social media icon content container. */
@@ -3687,6 +3692,7 @@ input:checked + .toggleSwitchSlider:before {
     cursor: pointer;
     position: relative;
     background: rgba(131, 131, 131, 0.25);
+    border-radius: 20px;
 }
 .serverListing[selected] {
     cursor: default;
@@ -3750,6 +3756,7 @@ input:checked + .toggleSwitchSlider:before {
     border: 1px solid #fff;
     height: 50px;
     width: 50px;
+    border-radius: 20px 0px 0px 20px;
 }
 
 /* Content container for the server listing's details. */
